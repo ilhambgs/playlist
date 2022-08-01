@@ -1,0 +1,1613 @@
+{
+  "categories": [
+    {
+      "name": "Nasional",
+      "channels": [
+
+        {
+          "name": "RCTI",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd"
+        },
+		{
+          "name": "Sctv",
+          "stream_url": "http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51"
+        },
+        {
+          "name": "Mytv",
+          "stream_url": "http://tvlive.my.id:25461/mat/mat/1"
+        },
+		{
+          "name": "indosiar",
+          "stream_url": "https://tvn10.xyz/Meta/master.m3u8",
+          "user_agent": "android-12"
+        },
+        {
+          "name": "RTV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd"
+        },
+        {
+          "name": "NET. TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd"
+        },
+        {
+          "name": "ANTV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd"
+        },
+		{
+          "name": "Trans 7",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd"
+        },
+        {
+          "name": "MNC TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd"
+        },
+		{
+          "name": "Trans TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd"
+        },
+        {
+          "name": "Global TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd"
+        },
+        {
+          "name": "TVRI NASIONAL",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd"
+        },
+        {
+          "name": "Bali TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd"
+        },
+        {
+          "name": "Jak TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd"
+        },
+        {
+          "name": "JTV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd"
+        },
+        {
+          "name": "Bandung TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd"
+        },
+		{
+          "name": "TV One",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd"
+        },
+        {
+          "name": "Jogja TV",
+          "stream_url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
+        },
+        {
+          "name": "TATV",
+          "stream_url": "https://v2.siar.us/tatv/live.sdp/playlist.m3u8"
+        },
+		{
+          "name": "Kompas TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd"
+        },
+		{
+          "name": "Metro TV",
+          "drm_id": "indihome",
+          "stream_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
+        },
+	{
+          "name": "O Channel",
+          "stream_url": "https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-13.m3u8",
+          "user_agent": "aing=maung=Bandung109"
+        }
+      ]
+    },
+	{
+      "name": "Berita",
+      "channels": [
+        {
+          "name": "Channel U",
+          "drm_id": "E",
+          "stream_url": "https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd|user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "CNA",
+          "drm_id": "E!",
+          "stream_url": "https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd|user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ABC Australia",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd"
+        },
+        {
+          "name": "Al Jazeera",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd"
+        },
+        {
+          "name": "Arirang",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd"
+        },
+        {
+          "name": "Astro Awani",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/205265/205265/6714"
+        },
+        {
+          "name": "BBC World News",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd"
+        },
+        {
+          "name": "BeritaSatu",
+          "stream_url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8"
+        },
+        {
+          "name": "Bloomberg",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd"
+        },
+        {
+          "name": "Channel News Asia",
+          "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+        },
+        {
+          "name": "Chnannel News Asia",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "stream_url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+        },
+        {
+          "name": "CNN Indonesia",
+          "stream_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+        },
+        {
+          "name": "CNN International",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd"
+        },
+        {
+          "name": "DW",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd"
+        },
+        {
+          "name": "EuroNews",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd"
+        },
+        {
+          "name": "France24",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd"
+        },
+        {
+          "name": "FOX News",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd"
+        },
+        {
+          "name": "IDX Channel",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd"
+        },
+        {
+          "name": "iNews",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd"
+        },
+        {
+          "name": "MNC News",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd"
+        },
+        {
+          "name": "SEA Today",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd"
+        },
+        {
+          "name": "TV5 Monde Asie",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd"
+        },
+        {
+          "name": "TRT",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd"
+        },
+        {
+          "name": "NHK World Japan",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd"
+        },
+        {
+          "name": "NHK World Premium",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd"
+        },
+        {
+          "name": "RRI Net",
+          "stream_url": "http://36.89.47.217:11935/rrinet/live/index.m3u8"
+        },
+        {
+          "name": "RT ENGLISH",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd"
+        },
+        {
+          "name": "TVRI",
+          "stream_url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
+        },
+        {
+          "name": "Voice of America",
+          "stream_url": "http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8"
+        }
+      ]
+    },
+	{
+	 "name": "Movies",
+	 "channels": [
+		{
+          "name": "Black Cinema",
+          "stream_url": "https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl="
+        },
+		{
+          "name": "citra drama",
+          "stream_url": "https://tvn10.xyz/Meta/master-3.m3u8",
+          "user_agent": "android-12"
+        },
+		{
+          "name": "citra bioskop",
+          "stream_url": "https://tvn10.xyz/Meta/master-2.m3u8",
+          "user_agent": "android-12"
+        },
+		{
+          "name": "Bioskop Indonesia",
+          "stream_url": "http://iptvid.my.id/hmm/biosid.m3u8"
+        },
+		{
+          "name": "Dunia Lain",
+          "stream_url": "http://iptvid.my.id/hmm/dnln.m3u8?by=iptv_id"
+        },
+		{
+          "name": "Galaxy",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd"
+        },
+		{
+          "name": "Galaxy Premium",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd"
+        },
+		{
+          "name": "HBO",
+		  "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd"
+        },
+        {
+          "name": "HBO Cinemax",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd"
+        },
+        {
+          "name": "HBO Family",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd"
+        },
+        {
+          "name": "HBO Hits",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd"
+        },
+        {
+          "name": "HBO Signature",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd"
+        },
+        {
+          "name": "Celestial Classic [CCM]",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd"
+        },
+        {
+          "name": "Celestial Movie",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd"
+        },
+        {
+          "name": "Cinema World",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd"
+        },
+		{
+          "name": "Paramount Network",
+          "stream_url": "http://axcestv.vip:8080/FreeSG/axcestv/531"
+        },
+        {
+          "name": "Hits",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd"
+        },
+        {
+          "name": "Hits Movies",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd"
+        },
+		{
+          "name": "My cinema",
+          "stream_url": "http://210.210.155.35/uq2663/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD"
+        },
+		{
+          "name": "My cinema Asia",
+          "stream_url": "http://210.210.155.35/uq2663/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia"
+        },
+		{
+          "name": "My cinema Family",
+          "stream_url": "http://axcestv.vip:8080/FreeSG/axcestv/509"
+        },
+		{
+          "name": "Thrill",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd"
+        },
+        {
+          "name": "tvN",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd"
+        },
+		{
+          "name": "tvN Movies",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd"
+        },
+		{
+          "name": "Zee Bioskop",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd"
+        },
+		{
+          "name": "Warner TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd"
+        },
+		{
+          "name": "Flik",
+          "stream_url": "http://iptvid.my.id/hmm/flik.m3u8?by=iptv_id"
+        },
+		{
+          "name": "Viu Tv",
+          "stream_url": "https://cdn.hkdtmb.com/hls/99/index.m3u8"
+        },
+		{
+          "name": "Viu Tv6",
+          "stream_url": "http://cdn.hkdtmb.com/hls/96/index.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Hiburan",
+      "channels": [
+        {
+          "name": "AFV Family",
+          "stream_url": "http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8"
+        },
+		{
+          "name": "Magna TV",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd"
+        },
+		        {
+          "name": "Usee Photo",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd"
+        },
+        {
+          "name": "Usee Prime",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd"
+        },
+        {
+          "name": "Hi Indo",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd"
+        },
+        {
+          "name": "MTA TV",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd"
+        },
+        {
+          "name": "kplus",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/manifest.mpd"
+        },
+		{
+          "name": "Ruang Terampil",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd"
+        },
+        {
+          "name": "Asiancrush",
+          "stream_url": "https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "AXN",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd"
+        },
+        {
+          "name": "Biznet Adventure",
+          "stream_url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdyv_lWVEr0cSEOBCkIyfTS"
+        },
+        {
+          "name": "Biznet Lifestyle",
+          "stream_url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR"
+        },
+        {
+          "name": "Blue Ant Entertainment",
+          "stream_url": "http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/02.m3u8"
+        },
+        {
+          "name": "Blue Ant Extreme",
+          "stream_url": "http://45.126.83.51/dr9445/h/h15/01.m3u8"
+        },
+        {
+          "name": "Crackle",
+          "stream_url": "https://crackle-plex.amagi.tv/playlist.m3u8"
+        },
+		{
+          "name": "Dunia Games",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8"
+        },
+        {
+          "name": "FailArmy",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8"
+        },
+        {
+          "name": "Fashion TV",
+          "stream_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist==.m3u8"
+        },
+        {
+          "name": "Fashion TV Midnight",
+          "stream_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist==.m3u8"
+        },
+        {
+          "name": "FMN",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd"
+        },
+        {
+          "name": "GEM [ID]",
+          "stream_url": "http://210.210.155.35/uq2663/h/h19/01.m3u8"
+        },
+        {
+          "name": "Lively Place",
+          "stream_url": "https://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Jiangsu TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd"
+        },
+        {
+          "name": "Hunan TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd"
+        },
+        {
+          "name": "Shanghai Dragon TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd"
+        },
+        {
+          "name": "Xingkong TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd"
+        },
+        {
+          "name": "Anhui TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd"
+        },
+        {
+          "name": "KIX",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd"
+        },
+        {
+          "name": "Life&Style",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd"
+        },
+        {
+          "name": "LifeTime",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd"
+        },
+        {
+          "name": "MNC Infotainment",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd"
+        },
+        {
+          "name": "MNC Entertainment",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd"
+        },
+        {
+          "name": "MNCShop Signature",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd"
+        },
+        {
+          "name": "MNCShop Super Sale",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd"
+        },
+        {
+          "name": "New Kid TV",
+          "stream_url": "https://newidco-newkid-1.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Nick (Pluto TV)",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": "OK TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd"
+        },
+        {
+          "name": "People Are Awesome",
+          "stream_url": "https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Popstar! TV",
+          "stream_url": "https://linear-10.frequency.stream/10/hls/master/playlist.m3u8"
+        },
+        {
+          "name": "Reelz",
+          "stream_url": "http://a.jsrdn.com/broadcast/d37066a396/+0000/mid/c.m3u8"
+        },
+        {
+          "name": "Sony One",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd"
+        },
+		{
+          "name": "Sony Gem",
+          "drm_id": "indihome",
+          "stream_url": "http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8"
+        },
+        {
+          "name": "Star Chinese Legend",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd"
+        },
+        {
+          "name": "Star Chinese Movie",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd"
+        },
+        {
+          "name": "The Indonesia Channel",
+          "stream_url": "http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8"
+        },
+        {
+          "name": "The Pet Collective",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8"
+        },
+        {
+          "name": "Vision Prime",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd"
+        }
+      ]
+    },
+    {
+      "name": "Anak-Anak",
+      "channels": [
+        {
+          "name": "Animax",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd"
+        },
+        {
+          "name": "Aniplus Asia",
+          "stream_url": "http://210.210.155.35/dr9445/h/h02/index.m3u8"
+        },
+        {
+          "name": "Astro Ceria",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/205265/205265/6715"
+        },
+        {
+          "name": "Biznet Kids",
+          "stream_url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC"
+        },
+        {
+          "name": "Baby TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd"
+        },
+        {
+          "name": "Boomerang",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd"
+        },
+        {
+          "name": "Cartoon Network",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd"
+        },
+        {
+          "name": "CBeebies",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd"
+        },
+        {
+          "name": "CONtv Anime",
+          "stream_url": "https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8"
+        },
+        {
+          "name": "Da Vinci Learning",
+          "stream_url": "rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k"
+        },
+		{
+          "name": "Dreamworks",
+          "stream_url": "https://iptv.mapalus.xyz/uc_free/dass/session/TOXWZ-cuO30-huc2r-LWZS4/dreamworks/manifest.m3u8"
+        },
+        {
+          "name": "HappyKids",
+          "stream_url": "https://happykids-vizio.amagi.tv/playlist480p.m3u8"
+        },
+        {
+          "name": "Horee",
+          "stream_url": "https://utama.lancar.tech:8443/live/paijem/paijem/87702.ts"
+        },
+        {
+          "name": "Kartoon Fun Time",
+          "stream_url": "https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8"
+        },
+        {
+          "name": "Kidoodle TV",
+          "stream_url": "https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Kinder TV",
+          "stream_url": "http://autopilot.catcast.tv/content/38144/index.m3u8"
+        },
+        {
+          "name": "Kids TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd"
+        },
+        {
+          "name": "My Kids",
+          "stream_url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8"
+        },
+        {
+          "name": "Miao Mi",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd"
+        },
+        {
+          "name": "Nick Jr.",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd"
+        },
+        {
+          "name": "Nickelodeon",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd"
+        },
+        {
+          "name": "Nick Rewind",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed106ce4bf2e80007700bb3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Nick Teen",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Nick Clásico",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "TOTALLY TURTLES",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Dora TV",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "After School Cartoons",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "pocket.watch",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Ryan and Friends",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb584b7613a31000789de5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Little Baby Bum",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb301b7395671000780d100/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Sabrina Teenage Witch",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d94a5451754e6a4298d1059/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Mario vs. Sonic",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dbc264e0451770009ed742f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Anime All Day",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "SpongeBob",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Blaze",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b60419becf60008c841fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "einfach magisch!",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4796368174910007756454/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Beyblade Burst",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Blue's Clues",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b564ff59d130007363823/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Bubble Guppies",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Barney",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Babar",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "El Reino Infantil",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Rugrats Crecidos",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Pluto TV Kids Animation",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Pluto TV Kids",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "15.Pluto TV Retro Toons",
+          "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+        },
+        {
+          "name": "Nicktoon",
+          "stream_url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+        },
+        {
+          "name": "Pocket.Watch",
+          "stream_url": "https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Spacetoon",
+          "stream_url": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
+        },
+        {
+          "name": "Spacetoon [ID]",
+          "stream_url": "http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8"
+        },
+        {
+          "name": "Supertoons",
+          "stream_url": "https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8"
+        },
+        {
+          "name": "Toon Goggles",
+          "stream_url": "https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Toon Goggles Junior",
+          "stream_url": "https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Toonmax",
+          "stream_url": "http://45.126.83.51/qwr9ew/s/s50/index.m3u8"
+        },
+        {
+          "name": "Zoo Moo",
+          "stream_url": "https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Edukasi",
+      "channels": [
+        {
+          "name": "Animal Planet",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd"
+        },
+        {
+          "name": "Animals Live",
+          "stream_url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8"
+        },
+        {
+          "name": "Asian Food Network",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd"
+        },
+        {
+          "name": "BBC Earth [HD]",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd"
+        },
+        {
+          "name": "BeSmart",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd"
+        },
+		{
+          "name": "tech storm",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd"
+        },
+        {
+          "name": "CGTN Documentary",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd"
+        },
+        {
+          "name": "Crime Investigation",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd"
+        },
+        {
+          "name": "Discovery Asia",
+          "stream_url": "https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8"
+        },
+        {
+          "name": "Discovery Channel",
+          "stream_url": "https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Discovery Channel",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd",
+            "drm_name": "indihome"  
+        },
+        {
+          "name": "HGTV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd"
+        },
+        {
+          "name": "History",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd"
+        },
+        {
+          "name": "Love Nature",
+          "stream_url": "http://bamus-eng-roku.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "Magellan TV",
+          "stream_url": "https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8"
+        },
+        {
+          "name": "NASA TV",
+          "stream_url": "http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7"
+        },
+        {
+          "name": "Nat Geo Channel",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Nat Geo People",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd"
+        },
+        {
+          "name": "Nat Geo Wild",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd"
+        },
+        {
+          "name": "National Geographic",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd"
+        },
+		{
+          "name": "Outdoor Channel",
+          "stream_url": "https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "Popular Science",
+          "stream_url": "http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8"
+        },
+        {
+          "name": "TLC",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd"
+        },
+		{
+          "name": "Tv Edukasi",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd"
+        }
+      ]
+    },
+    {
+      "name": "Olahraga",
+      "channels": [
+        {
+          "name": "BeIN Sports 1",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd"
+        },
+        {
+          "name": "BeIN Sports 2",
+          "drm_id": "indihome",
+          "stream_url": "http://new-pro.tv:8080/mazen1/123456/154699"
+        },
+		{
+          "name": "BeIN Sports 3",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd"
+        },
+		{
+          "name": "BeIN Sports 4",
+          "drm_id": "indihome",
+          "stream_url": "http://new-pro.tv:8080/mazen1/123456/154701"
+        },
+        {
+          "name": "Unifi Sports 1",
+          "stream_url": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd"
+        },
+		{
+          "name": "Sky Sports F1",
+          "stream_url": "http://mvu03.wanicelife.com:8880/SWFAF123682/4NNBYUV8/2876"
+        },
+		{
+          "name": "Bein Premium 1",
+          "stream_url": "http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94498"
+        },
+		{
+          "name": "Bein Premium 2",
+          "stream_url": "http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94494"
+        },
+		{
+          "name": "Bein Premium 3",
+          "stream_url": "http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94490"
+        },
+		{
+          "name": "Champions TV 1",
+          "stream_url": "https://tvn10.xyz/Meta/master-7.m3u8",
+          "user_agent": "android-12"
+        },
+		{
+          "name": "Champions TV 2",
+          "stream_url": "https://tvn10.xyz/Meta/master-8.m3u8",
+          "user_agent": "android-12"
+        },
+		{
+          "name": "Champions TV 3",
+          "stream_url": "https://tvn10.xyz/Meta/master-9.m3u8",
+          "user_agent": "android-12"
+        },
+		{
+          "name": "Champions TV Goal",
+          "stream_url": "https://tvn10.xyz/Meta/master-10.m3u8",
+          "user_agent": "android-12"
+        },
+        {
+          "name": "Sony Ten 1",
+          "stream_url": "http://103.55.144.46/hls/sonyten1.m3u8"
+        },
+        {
+          "name": "Sony Ten 2",
+          "stream_url": "http://103.55.144.46/hls/sonyten2.m3u8"
+        },
+        {
+          "name": "Sony Ten 3",
+          "stream_url": "http://103.55.144.46/hls/sonyten3.m3u8"
+        },
+		{
+          "name": "Usee Sport",
+          "stream_url": "http://iptvid.my.id/hmm/useetl1.m3u8"
+        },
+		{
+          "name": "usee sport 2",
+          "stream_url": "http://iptvid.my.id/hmm/useetl2.m3u8"
+        },
+		{
+          "name": "Spotv",
+          "drm_id": "mnc",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd"
+        },
+		{
+          "name": "Spotv2",
+          "drm_id": "mnc",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd"
+        },
+        {
+          "name": "Dubai Racing",
+          "stream_url": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8"
+        },
+        {
+          "name": "Dubai Racing 2",
+          "stream_url": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8"
+        },
+        {
+          "name": "Dubai Racing 3",
+          "stream_url": "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8"
+        },
+        {
+          "name": "Dubai Sport",
+          "stream_url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8"
+        },
+        {
+          "name": "Dubai Sport 2",
+          "stream_url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8"
+        },
+        {
+          "name": "Dubai Sport 3",
+          "stream_url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8"
+        },
+        {
+          "name": "Edge Sport",
+          "stream_url": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "Astro SuperSport",
+          "stream_url": "https://nonton.site:8443/mustakim/mustakim/46413"
+        },
+        {
+          "name": "Astro SuperSport 2",
+          "stream_url": "https://nonton.site:8443/mustakim/mustakim/46414"
+        },
+        {
+          "name": "Astro SuperSport 3",
+          "stream_url": "https://nonton.site:8443/mustakim/mustakim/46415"
+        },
+		{
+          "name": "Astro SuperSport 4",
+          "stream_url": "https://nonton.site:8443/mustakim/mustakim/46416"
+        },
+		{
+          "name": "Astro SuperSport 5",
+          "stream_url": "https://nonton.site:8443/mustakim/mustakim/46417"
+        },
+        {
+          "name": "Fight Sports",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd"
+        },
+        {
+          "name": "Fox Sports News",
+          "stream_url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8"
+        },
+        {
+          "name": "FTF - For The Fans",
+          "stream_url": "https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Match 1",
+          "stream_url": "https://77-247-178-24.livesports24.online/ooomatch.m3u8"
+        },
+		{
+          "name": "Astro Arena",
+          "stream_url": "http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157485"
+        },
+		{
+          "name": "Astro Arena 2",
+          "stream_url": "http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/287793"
+        },
+        {
+          "name": "MNC Sports",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd"
+        },
+		{
+          "name": "MNC Sports 2",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd"
+        },
+		{
+          "name": "MNC Sports 3",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd"
+        },
+        {
+          "name": "SOCCER CHANNEL",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd"   
+        },
+        {
+          "name": "ONEGOLF [HD]",
+          "stream_url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8"
+        },
+        {
+          "name": "Outside TV+",
+          "stream_url": "https://outsidetvplus-stirr.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "Pac-12 Insider",
+          "stream_url": "https://pac12-roku-us.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "RedBull TV",
+          "stream_url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+        },
+        {
+          "name": "Stadium",
+          "stream_url": "https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8"
+        },
+        {
+          "name": "Sukan",
+          "stream_url": "http://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd"
+        },
+        {
+          "name": "TVRI Sport",
+          "stream_url": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8"
+        },
+        {
+          "name": "UFC",
+          "stream_url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"
+        },
+        {
+          "name": "UFC stadium",
+          "stream_url": "https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8"
+        },
+        {
+          "name": "Fight",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " Big Sky Conference",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " IMPACT Wrestling",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " TV Backcountry",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " MLS",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " NFL Channel",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " Pursuit UP",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d486bed428fe37d8cadba45/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " PGA TOUR",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " MLB",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " Bellator MMA",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " TV Boxing",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " Pro Wrestling",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " PokerGo",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fc54366b04b2300072e31af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " beIN SPORTS XTRA",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " ESR 24/7",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e0ee50be2571e393ad33/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " TV Fishing",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " TV Sports pluto",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " TV Fight",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " Glory Kickboxing",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9be1be738977e2c312134/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " Action Sports",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " TV Surf",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " Unbeaten Esports",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2a961bac1f70009ca7524/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " Strongman",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1452156c07b50009d0230e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " TV Fitness",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " TV Yoga",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " Auto Motor Sport",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": " World Poker Tour",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        }
+      ]
+    },
+    {
+      "name": "Alternative (Backup)",
+      "channels": [
+		{
+          "name": "Indosiar vidio",
+          "drm_id": "indihome",
+          "stream_url": "https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master.m3u8|User-Agent=aing=maung=Bandung109"
+        },
+{
+          "name": "Indosiar backup 3",
+          "drm_id": "indihome",
+          "stream_url": "https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/lokal/sctv1.m3u8"
+        },
+{
+          "name": "indosiar digital 1",
+          "stream_url": "https://lnk.ec/shareext@id_digital.ts"
+        },
+{
+          "name": "indosiar digital 2",
+          "stream_url": "http://tvlive.my.id:25461/mat/mat/10"
+        },
+{
+          "name": "indosiar digital 3",
+          "stream_url": "https://nonton.site:8443/mustakim/mustakim/1845"
+        },
+{
+          "name": "indosiar digital 4",
+          "stream_url": "https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master.m3u8",
+          "user_agent": "aing=maung=Bandung109"
+        },
+{
+          "name": "indosiar digital 5",
+          "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1658075236~acl=/hls-p/ingest_9111_*/*~hmac=c409ae2ceedd5b1a9dcb97d07d2537a090518784a020a1c660c91100e85c29ae/hls-p/ingest_9111_1080p/index.m3u8"
+        },
+		{
+          "name": "Trans 7 detik",
+          "stream_url": "http://bagas27.xtgem.com/source_m3u8/trans7ori.m3u8"
+        },
+		{
+          "name": "Trans 7 vision",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd"
+        },
+		{
+          "name": "Trans TV detik",
+          "stream_url": "http://bagas27.xtgem.com/source_m3u8/transtv.m3u8"
+        },
+		{
+          "name": "Trans TV vision",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd"
+        }
+      ]
+    },
+    {
+      "name": "Astro Go (PAKAI VPN)",
+      "channels": [
+        {
+          "name": "ASTRO AEC",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/205265/205265/6701"
+        },
+        {
+          "name": "ASTRO AWANI",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/penang175/penang175/6714"
+        },
+        {
+          "name": "ASTRO RIA",
+          "stream_url": "https://ktiptv.co:443/1234/1234/659410"
+        },
+        {
+          "name": "ASTRO WARNA",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/penang175/penang175/6740"
+        },
+        {
+          "name": "ASTRO CERIA",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/penang175/penang175/6715"
+        },
+        {
+          "name": "ASTRO CITRA",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/205265/205265/7267"
+        },
+        {
+          "name": "ASTRO OASIS",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/penang175/penang175/6725"
+        },
+        {
+          "name": "ASTRO PRIMA",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/penang175/penang175/6727"
+        },
+        {
+          "name": "ASTRO AOD 351",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/205265/205265/6702"
+        },
+		        {
+          "name": "ASTRO AOD 352",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/205265/205265/6703"
+        },
+		        {
+          "name": "ASTRO AOD 353",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/205265/205265/6704"
+        },
+        {
+          "name": "ASTRO HELLO",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/penang175/penang175/6721"
+        },
+        {
+          "name": "ASTRO Iqiyi",
+          "stream_url": "https://ktiptv.co:443/1234/1234/25963"
+        },
+        {
+          "name": "ASTRO Shuangxing",
+          "stream_url": "https://ktiptv.co:443/1234/1234/25970"
+        },
+        {
+          "name": "ASTRO Quanjia",
+          "stream_url": "https://ktiptv.co:443/1234/1234/25971"
+        },
+        {
+          "name": "ASTRO Xiaotaiyang",
+          "stream_url": "https://ktiptv.co:443/1234/1234/25964"
+        },
+        {
+          "name": "ASTRO Xinhe",
+          "stream_url": "http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8"
+        },
+        {
+          "name": "ASTRO Bollyone",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/205265/205265/6754"
+        },
+        {
+          "name": "Berita RTM",
+          "stream_url": "https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd"
+        },
+        {
+          "name": "Okey",
+          "stream_url": "https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd"
+        },
+        {
+          "name": "RTM Sports",
+          "stream_url": "http://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd"
+        },
+        {
+          "name": "One",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/penang175/penang175/6817"
+        },
+        {
+          "name": "BBC LIFESTYLE",
+          "stream_url": "https://ktiptv.co:443/1234/1234/26291"
+        },
+        {
+          "name": "Bernama",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/penang175/penang175/7190"
+        },
+        {
+          "name": "KBS World",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/penang175/penang175/6803"
+        },
+        {
+          "name": "HGTV GO",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/penang175/penang175/6798"
+        },
+        {
+          "name": "Oh!k",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/penang175/penang175/6726"
+        },
+        {
+          "name": "Drama Sangat",
+          "stream_url": "https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8"
+        },
+        {
+          "name": "Naura",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/penang175/penang175/6724"
+        },
+        {
+          "name": "Suria",
+          "stream_url": "http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8"
+        },
+        {
+          "name": "TV Alhijrah",
+          "stream_url": "http://iptv.tvmalaysia.cc:80/penang175/penang175/6834"
+        },
+        {
+          "name": "TV1",
+          "stream_url": "https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd"
+        },
+        {
+          "name": "TV2",
+          "stream_url": "https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd"
+        },
+        {
+          "name": "TV3",
+          "stream_url": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd"
+        },
+        {
+          "name": "TV6",
+          "stream_url": "https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd"
+        },
+        {
+          "name": "TV7",
+          "stream_url": "http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8"
+        },
+        {
+          "name": "TV8",
+          "stream_url": "https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8"
+        },
+        {
+          "name": "TV9",
+          "stream_url": "https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8"
+        },
+        {
+          "name": "TVikim",
+          "stream_url": "http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8"
+        },
+        {
+          "name": "mekkah tv",
+          "stream_url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8"
+        },
+        {
+          "name": "Madina TV",
+          "stream_url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Religi",
+      "channels": [
+        {
+          "name": "Al Quran Al Kareem",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd"
+        },
+        {
+          "name": "DAAI TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd"
+        },
+        {
+          "name": "Madinah TV",
+          "stream_url": "http://45.126.83.51:80/qwr9ew/s/s27/01.m3u8"
+        },
+        {
+          "name": "Makkah TV",
+          "stream_url": "http://45.126.83.51:80/qwr9ew/s/s28/01.m3u8"
+        },
+        {
+          "name": "Muslim TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd"
+        },
+        {
+          "name": "TV9",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd"
+        },
+        {
+          "name": "Rodja TV",
+          "stream_url": "http://210.210.155.35/qwr9ew/s/s14/02.m3u8"
+        },
+        {
+          "name": "Tawaf TV",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd"
+        },
+        {
+          "name": "TV Ikim",
+          "stream_url": "http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8"
+        },
+        {
+          "name": "TV Muhammadiyah",
+          "drm_id": "indihome",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd"
+        }
+      ]
+    }
+  ],
+  "drm_licenses": [
+    {
+      "drm_id": "indihome",
+      "drm_type": "widevine",
+      "drm_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=M2M1NmJkMjQtNDRlOS0zOTYzLWJjMDAtMzhhYWEyZTJjZmFi"
+    },
+    {
+      "drm_id": "F",
+      "drm_type": "widevine",
+      "drm_key": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&"
+    },
+	{
+      "drm_id": "mnc",
+      "drm_type": "widevine",
+      "drm_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+    },
+	{
+      "drm_id": "mnc1",
+      "drm_type": "widevine",
+      "drm_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh"
+    },
+	{
+      "drm_id": "mnc2",
+      "drm_type": "com.widevine.alpha",
+      "drm_key": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeFFhbnhzQkRoUFNwNjVHMmVPMndEMkZYM01ic0RBRy01aXNvVHRqY2NLNEVxbFdKcG9GQlJ3UG5sc1liV3pTNnN4emNHc2YwaTNldkJNQUZOR3NiemxjdVM4QWpVSHdJX3F4ZmhFdjZDMjNFZ1lYM1d4cENxLUlrOGEyU3JzLUNzSVg2Qjd1ajNZWHZoMDZEM3Vfb0FqeU9HN1hoamtoSURuNjRoN2lhQ3BWX0JEdnFxd1RnU21YRXJzdWlDRjJRbzlUTTdJQkozZ2lHd0xDWEVRUHZYRjJCVmFIdi0wYWNhY0FBcl9LQ0VTMGdlY2tlRkNGUWozVG1pc2RlN0JhWXUteVI1YVJfWG1BaWZ6ZmxPbkRoRDdoX29pMWw3NzVKejZUWmwxVXZuRTFQZHRsZjFZVTl3Nm9FRTlvOEkxdVNSZ0Z5YWxGVUI3TUZoQnlmdW9iN1RaJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUxNjYiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiOWI5OTg4OTRfZjE4OF80ZjY0Xzk4MWVfZjYzNzQ0Y2JlZmIxIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHhRYW54c0JEaFBTcDY1RzJlTzJ3RDJGWDNNYnNEQUctNWlzb1R0amNjSzRFcWxXSnBvRkJSd1BubHNZYld6UzZzeHpjR3NmMGkzZXZCTUFGTkdzYnpsY3VTOEFqVUh3SV9xeGZoRXY2QzIzRWdZWDNXeHBDcS1JazhhMlNycy1Dc0lYNkI3dWozWVh2aDA2RDN1X29BanlPRzdYaGpraElEbjY0aDdpYUNwVl9CRHZxcXdUZ1NtWEVyc3VpQ0YyUW85VE03SUJKM2dpR3dMQ1hFUVB2WEYyQlZhSHYtMGFjYWNBQXJfS0NFUzBnZWNrZUZDRlFqM1RtaXNkZTdCYVl1LXlSNWFSX1htQWlmemZsT25EaEQ3aF9vaTFsNzc1Sno2VFpsMVV2bkUxUGR0bGYxWVU5dzZvRUU5bzhJMXVTUmdGeWFsRlVCN01GaEJ5ZnVvYjdUWiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=sh3u0V%2b9vTj8FS2l%2fHDWX%2fJ%2bp9I%3d&sessionId=6a0bd365-e045-b2e0-cb49-7a1e13e9e6b9:355b5a08-c87d-001b-6ae3-6b5a0bdb9b7f&clientTag=html5:v7.40&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2hva2ktLW1hbGF5c2lhLWx3bi1hcmdlbnRpbmEvMTA5NDQ5MC9wbGF5ZXI/bGluZWFySWQ9MTAwMDkwMDg2JmlzTGl2ZT10cnVl"
+    },
+    {
+      "drm_id": "R",
+      "drm_type": "widevine",
+      "drm_key": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&"
+    },
+    {
+      "drm_id": "E",
+      "drm_type": "widevine",
+      "drm_key": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&"
+    },
+    {
+      "drm_id": "E!",
+      "drm_type": "widevine",
+      "drm_key": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY25hU19kYXNoX3dlYl9kcm0iLCJmaWxlcyI6IjU3NTQxNDgiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=AwRVi%2FH%2BlkS0uH3gDvZFjXDH3bM%3D&"
+	}
+  ]
+}
