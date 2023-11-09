@@ -1257,14 +1257,14 @@
 {
 "drm_id":"champwwc1",
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_04iXrYTA7vEvpBe_f_u9mVI0RiycG7IlTg&usqp=CAU",
-"name":"ChampionsTV WWC 1",
-"stream_url":"https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd","user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
+"name":"ChampionsTV WC 1",
+"stream_url":"https://drm-wc-1-vidio-com.akamaized.net/out/v1/36cd2d7a8d154757bc4859104fe1ee61/index.mpd","user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
 }, 
 {
 "drm_id":"champwwc2",
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_04iXrYTA7vEvpBe_f_u9mVI0RiycG7IlTg&usqp=CAU",
-"name":"ChampionsTV WWC 2",
-"stream_url":"https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd",
+"name":"ChampionsTV WC 2",
+"stream_url":"https://drm-wc-2-vidio-com.akamaized.net/out/v1/1694b2f77c404c3fa3cb40a8c7a85201/index.mpd",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
 }, 
 {
@@ -2202,13 +2202,13 @@
 "drm_id":"champwwc1",
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwj9OT2H3OmT2_uA2VDAtCIh-4MoMTP1t-iQ&usqp=CAU",
 "name":"ChampionsTV WC 1",
-"stream_url":"https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd","user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
+"stream_url":"https://drm-wc-1-vidio-com.akamaized.net/out/v1/36cd2d7a8d154757bc4859104fe1ee61/index.mpd","user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
 }, 
 {
 "drm_id":"champwwc2",
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwj9OT2H3OmT2_uA2VDAtCIh-4MoMTP1t-iQ&usqp=CAU",
 "name":"ChampionsTV WC 2",
-"stream_url":"https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd",
+"stream_url":"https://drm-wc-2-vidio-com.akamaized.net/out/v1/1694b2f77c404c3fa3cb40a8c7a85201/index.mpd",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
 },
 {
@@ -2668,12 +2668,12 @@
 }, 
 {
 "drm_id":"champwwc1",
-"drm_key":"7bacf759768884bc001b192284da04cd:40f0c18b068b72ccff74e4e94c6aded6",
+"drm_key":"ff1730e2afa58e4a4b6c0be9d7f1d825:2a9f660aa7536eb513ca5900249d6add",
 "drm_type":"clearkey "
 }, 
 {
 "drm_id":"champwwc2",
-"drm_key":"4ffb6f60bd35563da12fce4438b683d2:deb54c5f37aa0219099c22c2ddd9d4db",
+"drm_key":"dad26bed782d6991d64970ce3cb006da:2c8b3759afc68f6944089f5b4b7a1f50",
 "drm_type":"clearkey "
 }, 
 {
