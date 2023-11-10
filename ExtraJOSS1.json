@@ -135,10 +135,10 @@
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36"
 }, 
 {
-"drm_id":"vision",
+"drm_id":"useeindosiar",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png",
 "name":"INDOSIAR",
-"stream_url":"https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar"
+"stream_url":"https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest.mpd"
 }, 
 {
 "drm_id":"vision",
@@ -2345,7 +2345,7 @@
 "drm_id":"bein3id",
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTPqpXUEqhZDm-pBCegfZ3wxKN8h96axIFVw&usqp=CAU",
 "name":"Bein sports 3 id",
-"stream_url":"https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd",
+"stream_url":"https://etslive-2-vidio-com.akamaized.net/drm/dash/6317_stream.mpd",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
 }, 
 {
@@ -2503,7 +2503,7 @@
 "drm_id":"bein1id",
 "logo_url":"https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
 "name":"Bein 1 id",
-"stream_url":"https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd",
+"stream_url":"https://etslive-2-vidio-com.akamaized.net/drm/dash/6299_stream.mpd",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
 }
 ]
@@ -2678,12 +2678,12 @@
 }, 
 {
 "drm_id":"bein1id",
-"drm_key":"c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd",
+"drm_key":"5a5ee47b6022aa0b4480ec9dedb044aa:0b418544e539d7cd76e510c6ee1b0624",
 "drm_type":"clearkey "
 }, 
 {
 "drm_id":"bein3id",
-"drm_key":"1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc",
+"drm_key":"dae6af9ca5b6e2e9c653c0893d699271:bb37ad622e372b0b3a80cae07da15e3b",
 "drm_type":"clearkey "
 }, 
 {
