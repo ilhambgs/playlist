@@ -2210,12 +2210,6 @@
 "name":"ChampionsTV WC 2",
 "stream_url":"https://drm-wc-2-vidio-com.akamaized.net/out/v1/1694b2f77c404c3fa3cb40a8c7a85201/index.mpd",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
-},
-{
-"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwj9OT2H3OmT2_uA2VDAtCIh-4MoMTP1t-iQ&usqp=CAU",
-"name":"Sports 18",
-"stream_url":"https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8",
-"user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
 }
 ]
 },
