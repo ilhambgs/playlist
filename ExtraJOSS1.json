@@ -336,25 +336,25 @@
 {
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWPZAEX10uqUxUytHwuHnNKTDTwm3iUFbZA&usqp=CAU",
 "name": "citra bioskop",
-"stream_url": "http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298519",
+"stream_url": "http://iptvtree.net:8080/F26646/f950f250/298519",
 "user_agent": "android-12"
 },
 {
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC6l2tcCep3osKhAjXp9fTnG7g67xUrQDvAw&usqp=CAU",
 "name": "home bioskop 1",
-"stream_url": "http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298526",
+"stream_url": "http://iptvtree.net:8080/F26646/f950f250/298526",
 "user_agent": "android-12"
 },
 {
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC6l2tcCep3osKhAjXp9fTnG7g67xUrQDvAw&usqp=CAU",
 "name": "home bioskop 2",
-"stream_url": "http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298527",
+"stream_url": "http://iptvtree.net:8080/F26646/f950f250/298527",
 "user_agent": "android-12"
 },
 {
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC6l2tcCep3osKhAjXp9fTnG7g67xUrQDvAw&usqp=CAU",
 "name": "home bioskop 3",
-"stream_url": "http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298528",
+"stream_url": "http://iptvtree.net:8080/F26646/f950f250/298528",
 "user_agent": "android-12"
 },
 {
@@ -377,7 +377,7 @@
 "logo_url":"https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Boo.png",
 "name": "BOO",
 "drm_id": "2407",
-"stream_url": "https://1.yurend.xyz/dash-wv/linear/2407/manifest.mpd"
+"stream_url": "https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2407/manifest.mpd"
 }, 
 {
 "drm_id":"vision",
@@ -519,6 +519,14 @@
 {
 "drm_id":"vision",
 "referer":"https://visionplus.id",
+"logo_url":"https://i.ytimg.com/vi/lG8K7jHktQI/maxresdefault.jpg",
+"name":"HITS",
+"stream_url":"https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd",
+"user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36"
+}, 
+{
+"drm_id":"vision",
+"referer":"https://visionplus.id",
 "logo_url":"https://serpongupdate.com/wp-content/uploads/2019/04/HITS-Movies.jpg",
 "name":"HITS Movies",
 "stream_url":"https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
@@ -577,7 +585,7 @@
 {
 "logo_url":"https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",
 "name": "citra drama",
-"stream_url": "http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/264748",
+"stream_url": "http://iptvtree.net:8080/F26646/f950f250/264748",
 "user_agent": "android-12"
 },
 {
@@ -586,14 +594,6 @@
 "logo_url":"https://www.axn-asia.com/sites/axn-asia.com/files/styles/image_700x394/public/default/responsive_axn_2/default_channel.jpg?itok\u003dyUfBF9_V",
 "name":"AXN",
 "stream_url":"https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd",
-"user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36"
-}, 
-{
-"drm_id":"vision",
-"referer":"https://visionplus.id",
-"logo_url":"https://i.ytimg.com/vi/lG8K7jHktQI/maxresdefault.jpg",
-"name":"HITS",
-"stream_url":"https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36"
 }, 
 {
@@ -655,7 +655,7 @@
 "referer":"http://172.96.161.72/",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be2b660c5727/7f71d84d3d754fd98b8439ab612092b8.jpg",
 "name":"sewudino",
-"stream_url":"http://23.226.71.77/s5IjQRbOE8p8xEQcC9IGV1HYUAzMprfJX0NAJMcO8Kw0CBhOSiFjdu1z__6NsaGYo0S8vMewGxhyjVb6YfYtkA/jH5SoiO8Z-xnBr3Iekc9EWot4BN3iHmckDtjUzPXMOk/video.m3u8"
+"stream_url":"http://23.226.71.77/2pZI-IgRPQNhp1ryGlgjyb54r0cOVpjQAAH18DDfH2S9d5Wk996yfGeMl2dfGeBM4mFZo8ZLgmR90DJUpgeRnQ/l70SBiTPZuDNBs4H05Q-5Uy01pJDW6hmahUUXNVWJDo/1080.m3u8"
 }, 
 {
 "drm_id":"cubmu",
@@ -943,7 +943,7 @@
 "referer":"https://visionplus.id",
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6mNphTNsKKcJroNZhJg_T_kr5ot0olFznTg&usqp=CAU",
 "name":"Aniplus",
-"stream_url":"https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8",
+"stream_url":"https://op-group1-swiftservehd-1.dens.tv/h/h114/index.m3u8",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36"
 }, 
 {
@@ -1144,47 +1144,82 @@
 "stream_url": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd"
 },
 {
+"drm_id":"tsn1",
+"logo_url":"https://vignette.wikia.nocookie.net/logopedia/images/5/57/TSN1_new.png/revision/latest?cb=20150906020053",
+"name":"TSN 1",
+"stream_url":"https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd",
+"user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
+},
+{
+"drm_id":"tsn2",
+"logo_url":"https://vignette.wikia.nocookie.net/logopedia/images/3/35/TSN2.png/revision/latest/scale-to-width-down/638?cb=20150906015918",
+"name":"TSN 2",
+"stream_url":"https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd",
+"user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
+},
+{
+"drm_id":"tsn3",
+"logo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1280px-TSN3.svg.png",
+"name":"TSN 3",
+"stream_url":"https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd",
+"user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
+},
+{
+"drm_id":"tsn4",
+"logo_url":"https://th.bing.com/th/id/R.e20b792e69f6a18a81e207cea260fd0b?rik=gpO7ioOO2ltijA&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2flogopedia%2fimages%2f5%2f50%2fTsn_4_ca.png%2frevision%2flatest%3fcb%3d20150906015754&ehk=lfGsV6lxBS46gNuV5xjqWCcMftJUxsSAKoiqk5Mt3rc%3d&risl=&pid=ImgRaw&r=0",
+"name":"TSN 4",
+"stream_url":"https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd",
+"user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
+},
+{
+"drm_id":"tsn5",
+"logo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/2560px-TSN5.svg.png",
+"name":"TSN 5",
+"stream_url":"https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd",
+"user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
+},
+{
 "logo_url":"https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png?20210923131034",
 "name": "Astro Arena",
 "drm_id": "2604",
-"stream_url": "https://1.yurend.xyz/dash-wv/linear/2604/default_primary.mpd"
+"stream_url": "https://mala.asha-tv.my.id/dash-wv/linear/2604/default_primary.mpd"
 },
 {
 "drm_id": "5057",
 "logo_url":"https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png",
 "name": "Astro Arena 2",
-"stream_url": "https://1.yurend.xyz/dash-wv/linear/5057/default_primary.mpd"
+"stream_url": "https://mala.asha-tv.my.id/dash-wv/linear/5057/default_primary.mpd"
 }, 
 {
 "logo_url":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",
 "name":"Astro SuperSport 1",
-"stream_url":"http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=918986&extension=ts&play_astro1",
+"stream_url":"https://epg.pw/stream/60f98236f83fdd3a9bd023d19891e8e326521401ad8341da3ea080fd8e9a2ca3.ctv",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
 }, 
 {
 "logo_url":"https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb\u003d20200924173634",
 "name":"Astro SuperSport 2",
-"stream_url":"http://tv.cloudcdn.me:80/live.ts?channelId=125430&uid=3306&deviceMac=00:1A:79:0A:3B:21",
+"stream_url":"http://muka03.wanicelife.com:8880/29us05073n01/evgf4g554/59219",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
 }, 
 {
 "logo_url":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",
 "name":"Astro SuperSport 3",
 "referer":"https://ntuplay.xyz/",
-"stream_url":"http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=918984&extension=ts&play_astro3",
+"stream_url":"http://muka03.wanicelife.com:8880/29us05073n01/evgf4g554/59218",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
 }, 
 {
 "logo_url":"https://www.thesportsdb.com/images/media/tvlogo/dtqhym1572377012.png",
 "name": "Astro SuperSport 4",
 "drm_id": "2506",
-"stream_url": "https://1.yurend.xyz/dash-wv/linear/2506/default_primary.mpd"
+"stream_url": "https://mala.asha-tv.my.id/dash-wv/linear/2506/default_primary.mpd"
 }, 
 {
 "logo_url":"https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png",
 "name": "Astro SuperSport 5",
 "drm_id": "5059",
-"stream_url": "https://1.yurend.xyz/dash-wv/linear/5059/default_primary.mpd"
+"stream_url": "https://mala.asha-tv.my.id/dash-wv/linear/5059/default_primary.mpd"
 },
 {
 "drm_id":"champ1",
@@ -1658,7 +1693,7 @@
 "referer":"https://visionplus.id",
 "logo_url":"https://upload.wikimedia.org/wikipedia/id/9/97/Soccer_Channel.png",
 "name":"Soccer Channel",
-"stream_url":"https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd",
+"stream_url":"https://mangga-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36"
 }, 
 {
@@ -1869,14 +1904,16 @@
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
 }, 
 {
+"drm_id":"usee",
 "logo_url":"https://i.ibb.co/tQ8cvLr/USEESPORTS.png",
 "name":"Usee Sports",
-"stream_url":"https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd"
+"stream_url":"https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd"
 },
 {
+"drm_id":"usee",
 "logo_url":"https://i.ibb.co/wMS7fDf/USEESPORTS2.png",
 "name":"Usee Sports 2",
-"stream_url":"https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0002f5b4-bcc0-4b51-93c8-0de407cf7e19)/manifest.mpd"
+"stream_url":"https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd"
 },
 {
 "logo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png",
@@ -2188,13 +2225,13 @@
 "name":"FIFA WORLD CUP U-17",
 "channels":[
 {
-"name": "sctv",
+"name": "SCTV",
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwj9OT2H3OmT2_uA2VDAtCIh-4MoMTP1t-iQ&usqp=CAU",
 "stream_url": "http://103.166.27.2:8112/play/a015/index.m3u8"
 },
 {
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwj9OT2H3OmT2_uA2VDAtCIh-4MoMTP1t-iQ&usqp=CAU",
-"name":"indosiar",
+"name":"INDOSIAR",
 "stream_url":"http://103.166.27.2:8112/play/a016/index.m3u8",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
 },
@@ -2209,6 +2246,20 @@
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwj9OT2H3OmT2_uA2VDAtCIh-4MoMTP1t-iQ&usqp=CAU",
 "name":"ChampionsTV WC 2",
 "stream_url":"https://drm-wc-2-vidio-com.akamaized.net/out/v1/1694b2f77c404c3fa3cb40a8c7a85201/index.mpd",
+"user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
+},
+{
+"drm_id":"tsn2",
+"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwj9OT2H3OmT2_uA2VDAtCIh-4MoMTP1t-iQ&usqp=CAU",
+"name":"TSN 2",
+"stream_url":"https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd",
+"user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
+},
+{
+"drm_id":"tsn5",
+"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwj9OT2H3OmT2_uA2VDAtCIh-4MoMTP1t-iQ&usqp=CAU",
+"name":"TSN 5",
+"stream_url":"https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 "
 }
 ]
@@ -2687,9 +2738,34 @@
 }, 
 {
 "drm_id":"cubmu",
-"drm_key":"https://pencari.link/nurdin/imahuing21/metadata.php?id=license&key=cubmu&type=drm",
+"drm_key":"https://dcub.zhehacindo.workers.dev/01",
 "drm_type":"com.widevine.alpha"
 }, 
+{
+"drm_id":"tsn1",
+"drm_key":"dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce",
+"drm_type":"clearkey "
+},
+{
+"drm_id":"tsn2",
+"drm_key":"ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446",
+"drm_type":"clearkey "
+},
+{
+"drm_id":"tsn3",
+"drm_key":"c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9",
+"drm_type":"clearkey "
+},
+{
+"drm_id":"tsn4",
+"drm_key":"f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431",
+"drm_type":"clearkey "
+},
+{
+"drm_id":"tsn5",
+"drm_key":"cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c",
+"drm_type":"clearkey "
+},
 {
 "drm_id":"tv3my",
 "drm_key":"3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97",
@@ -3012,7 +3088,7 @@
                     }, {
                         "drm_id":"01","drm_key":"c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd","drm_type":"clearkey "
                     }, {
-                        "drm_id":"18995679","drm_key":"https://pencari.link/cubmu.php?id=license&key=cubmu&type=drm&username=nurdin","drm_type":"com.widevine.alpha"
+                        "drm_id":"cubmuwfbackup","drm_key":"https://cubmu.h3ll0.workers.dev/cubmuasha","drm_type":"com.widevine.alpha"
                     }, {
                         "drm_id":"1234853","drm_key":"3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97","drm_type":"clearkey "
                     }, {
