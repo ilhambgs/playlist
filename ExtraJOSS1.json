@@ -2811,7 +2811,7 @@
 }, 
 {
 "drm_id":"cubmu",
-"drm_key":"https://cbm.tvonlineindonesia3.workers.dev/",
+"drm_key":"https://apiv2cinderella.xxxxxxxxxxxxxxxxxx.workers.dev/",
 "drm_type":"com.widevine.alpha"
 }, 
 {
@@ -3171,7 +3171,7 @@
                     }, {
                         "drm_id":"01","drm_key":"c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd","drm_type":"clearkey "
                     }, {
-                        "drm_id":"cubmuwfbackup","drm_key":"https://apiv2cinderella.xxxxxxxxxxxxxxxxxx.workers.dev/","drm_type":"com.widevine.alpha"
+                        "drm_id":"cubmuwfbackup","drm_key":"https://cbm.tvonlineindonesia3.workers.dev/","drm_type":"com.widevine.alpha"
                     }, {
                         "drm_id":"1234853","drm_key":"3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97","drm_type":"clearkey "
                     }, {
