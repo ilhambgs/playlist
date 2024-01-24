@@ -2322,11 +2322,6 @@
 "stream_url": "http://tv.trexiptv.com/play/live.php?mac=00:1A:79:C6:20:7D&stream=1422121&extension=ts&play_token=qwbvETzStD"
 },
 {
-"name": "Bein Asian Cup 2",
-"logo_url":"https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltba9fdf74650bd99b/645cd24526778c71b7f39356/Asian_Cup_logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
-"stream_url": "http://tv.trexiptv.com/play/live.php?mac=00:1A:79:C6:20:7D&stream=1422124&extension=ts&play_token=7iNKSjpP4K"
-},
-{
 "name": "Original Stream",
 "logo_url":"https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltba9fdf74650bd99b/645cd24526778c71b7f39356/Asian_Cup_logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
 "stream_url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_230124/master.m3u8"
