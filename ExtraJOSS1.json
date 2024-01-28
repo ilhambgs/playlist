@@ -223,7 +223,7 @@
 "drm_id":"cubmu",
 "logo_url":"https://thumbor.prod.vidiocdn.com/GdCgs7TSfDxuvoqhqCWKFrafCPs\u003d/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg",
 "name":"Net tv",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd",
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36"
 }, 
 {
@@ -251,8 +251,9 @@
 {
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png",
+"referer":"https://www.dens.tv/",
 "name":"SCTV",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd",
+"stream_url":"http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36"
 }, 
 {
@@ -338,7 +339,7 @@
 {
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWPZAEX10uqUxUytHwuHnNKTDTwm3iUFbZA&usqp=CAU",
 "name": "citra bioskop",
-"stream_url": "http://iptvaruba.com:8080/Kenann666/bpLTekVQBMD3yaWq/298519",
+"stream_url": "http://bagas27.xtgem.com/playlist/cbioskop.m3u8",
 "user_agent": "Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36"
 },
 {
@@ -393,7 +394,7 @@
 "drm_id":"cubmu",
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Pxoe62Z-QYGXIc6QlZKWLRUAQjFOwUqMdg&usqp=CAU",
 "name":"Warner TV",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd",
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36"
 },
 {
@@ -455,7 +456,7 @@
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt.transvision.co.id/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/20190829060720.jpg",
 "name":"Cinemax",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd"
 }, 
 {
 "logo_url":"https://allvectorlogo.com/img/2016/07/lifetime-movie-network-logo.png",
@@ -475,7 +476,7 @@
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt.transvision.co.id/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/20190906064620.png",
 "name":"HBO Signature",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd"
 }, 
 {
 "drm_id":"vision",
@@ -497,7 +498,7 @@
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt.transvision.co.id/image/web/channel/4028c6856c3db2cc016d054fbf67379f/20190906064255.png",
 "name":"HBO Hits",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd"
 }, 
 {
 "drm_id":"vision",
@@ -511,13 +512,13 @@
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt.transvision.co.id/image/web/channel/4028c6856c3db2cc016d055927fe37a4/20190906065312.png",
 "name":"HBO Family",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd"
 }, 
 {
 "drm_id":"cubmu",
 "logo_url":"https://3dwarehouse.sketchup.com/warehouse/v1.0/content/public/e407a279-59c6-44b9-9018-99b9690ac881",
 "name":"HBO",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd"
 }, 
 {
 "drm_id":"vision",
@@ -588,7 +589,7 @@
 {
 "logo_url":"https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",
 "name": "citra drama",
-"stream_url": "https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd",
+"stream_url": "http://tvnid.wapgem.com/playlist_1/citradrama.m3u8",
 "user_agent": "Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36"
 },
 {
@@ -634,25 +635,25 @@
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5e94be3213e1/a744a889dcd6437eafdc4fe2d3c741ea.png",
 "name":"Digi TV",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd"
 }, 
 {
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff04901846165390f3e5c/0bbba8c1f15c49af9344999c3b8ac020.jpg",
 "name":"Zoke",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018455fe09894361/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/100/4028c685840ff049018455fe09894361/manifest.mpd"
 }, 
 {
 "drm_id":"cubmu",
 "logo_url":"https://yt3.googleusercontent.com/2tLHNNQFbwk8yq3LQ5qYeZAP69c8640cn9kvwPLSGuca_pyh5rV93Lad7DvRNFx0_v-fS_JZeg=s900-c-k-c0x00ffffff-no-rj",
 "name":"INSERT!",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd"
 }, 
 {
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be2b660c5727/7f71d84d3d754fd98b8439ab612092b8.jpg",
 "name":"SERU CHANNEL",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd"
 }, 
 {
 "referer":"http://172.96.161.72/",
@@ -664,25 +665,25 @@
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b6c3a722be5/c57094c5b4b24827ae82a64e01841bc8.jpg",
 "name":"Gosip",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd"
 }, 
 {
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png",
 "name":"Dunia Lain",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd"
 }, 
 {
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060ae0aa740bb/39e0cbc9c8e0477591d7993555146bd6.jpg",
 "name":"Movies News",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd"
 }, 
 {
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff0490184616a87db3e62/8eea39bac1c64a668bfc87419b92ce98.jpg",
 "name":"Series Zone",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd"
 }, 
 {
 "logo_url":"https://i.kym-cdn.com/entries/icons/facebook/000/037/515/mtv-music-television.jpg",
@@ -811,37 +812,37 @@
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060a6dbbb40b8/e6ad4148d45148f189db13925065fa5b.jpg",
 "name":"How Two",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6857fe540a1018060a6dbbb40b8/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6857fe540a1018060a6dbbb40b8/manifest.mpd"
 }, 
 {
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png",
 "name":"LINGUA",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd"
 }, 
 {
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be2463495723/9d3f40f80c0340f58a26da2cf9303cc0.jpg",
 "name":"CGTN",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729c8468973bfe/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/5/4028c68572841ba301729c8468973bfe/manifest.mpd"
 }, 
 {
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff0490184616205703d8d/2e984360979745ea9ef7c0e56f64eab4.jpg",
 "name":"English Club",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018455f484ca435e/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/100/4028c685840ff049018455f484ca435e/manifest.mpd"
 }, 
 {
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff0490184616302e33d8e/d16612aed7f44885be70f4d52315c934.jpg",
 "name":"English Us",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018455fb1bd5435f/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/100/4028c685840ff049018455fb1bd5435f/manifest.mpd"
 }, 
 {
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b6764522be3/982842a26aea41cb980ece08814c337b.jpg",
 "name":"Knowlage+",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c68582449a2e018259716f7821f0/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c68582449a2e018259716f7821f0/manifest.mpd"
 },
 {
 "drm_id":"2710",
@@ -977,25 +978,25 @@
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b64d0742be1/e00b58b6aaa1455c82d8980c3f90c98c.jpg",
 "name":"Cartoon Tv premium",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd"
 }, 
 {
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff04901846166f4d93e5e/8e60b38dbec04327b6a595877c1e94b3.jpg",
 "name":"Cartoon Tv Classic",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd"
 }, 
 {
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b65fa882be2/1aa82a2c32ca49698d23ddeec560c48c.jpg",
 "name":"Cartoon Tv",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd"
 }, 
 {
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be1f09275720/cdf3a2185da14403a42ca58f74f261c0.png",
 "name":"DUNIA ANAK",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd"
 }, 
 {
 "drm_id":"vision",
@@ -2014,7 +2015,7 @@
 "drm_id":"cubmu",
 "logo_url":"https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be3fbd2f58d7/86556e8bfa3d423e97038d36c040e6fd.png",
 "name":"KHAZANAH",
-"stream_url":"https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd"
+"stream_url":"https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd"
 }, 
 {
 "drm_id":"vision",
@@ -2093,9 +2094,22 @@
 "name": "Alternative (Backup)",
 "channels": [
 {
-"name": "Timnas",
+"name": "Timnas 1",
 "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9O7Vxl5p534T-zP8kZAuu98txO1azAx-8YQ&usqp=CAU",
-"stream_url": "http://bagas27.xtgem.com/source_m3u8/timnas.m3u8",
+"stream_url": "https://www.dropbox.com/scl/fi/tlgi8utorwdd45bibaod5/20240116_1300171.mp4?rlkey=tfzq5ijt78rrjlpr8gafze7p8&dl=1",
+"user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36"
+},
+{
+"name": "Timnas 2",
+"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9O7Vxl5p534T-zP8kZAuu98txO1azAx-8YQ&usqp=CAU",
+"stream_url": "https://www.dropbox.com/scl/fi/tlgi8utorwdd45bibaod5/20240116_1300171.mp4?rlkey=tfzq5ijt78rrjlpr8gafze7p8&dl=1",
+"user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36"
+},
+{
+"name": "Timnas 3",
+"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9O7Vxl5p534T-zP8kZAuu98txO1azAx-8YQ&usqp=CAU",
+"referer":"https://bob5l5m.superabbit77.network/",
+"stream_url": "https://www.dropbox.com/scl/fi/tlgi8utorwdd45bibaod5/20240116_1300171.mp4?rlkey=tfzq5ijt78rrjlpr8gafze7p8&dl=1",
 "user_agent":"Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36"
 },
 {
@@ -2811,7 +2825,7 @@
 }, 
 {
 "drm_id":"cubmu",
-"drm_key":"https://apiv2cinderella.xxxxxxxxxxxxxxxxxx.workers.dev/",
+"drm_key":"https://cbm.tvonlineindonesia3.workers.dev/",
 "drm_type":"com.widevine.alpha"
 }, 
 {
